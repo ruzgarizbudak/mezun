@@ -1,0 +1,7 @@
+0 insan
+1 spor
+2 otomotiv
+3 hayvan
+4 bitki
+5 diğer
+6 ayakkabı
